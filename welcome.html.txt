@@ -1,0 +1,7 @@
+<html>
+<head>dev ops</head>
+<body>
+<h1>this is prac 1</h1>
+<h2>i am kishor</h2>
+</body>
+</html>
